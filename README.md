@@ -4,7 +4,8 @@ This is starter Web project
 this is introduction
 ## Purpose
 this is purpose
-adding aline to rebase demo
+adding a line to rebase demo for rebasing with master
+for cleaner merge later with master
 ## Deployment
 this is deployment
 ## How to Contribute
